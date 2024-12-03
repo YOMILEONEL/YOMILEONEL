@@ -2,7 +2,7 @@
 🌟 Fullstack-Entwickler | KI-Enthusiast | Informatikstudent 🌟
 👨‍💻 Informatikstudent an der Technischen Universität Clausthal mit einer Leidenschaft für die Entwicklung von Software und innovativen Lösungen.
 
-🔧 Technologien, die ich beherrsche:
+🔧 Technologien, die ich kenne:
 
 Backend: Java, Spring, Python
 Frontend: React, Angular, HTML, CSS
