@@ -16,25 +16,25 @@ Ich investiere kontinuierlich Zeit, um moderne Technologien und Methoden der KI 
 🚀 Projekte:
 
 Aufgabenverwaltungsanwendung mit React:
-
 Technologien: React, TypeScript, CSS
 Beschreibung:
 Entwicklung einer intuitiven App zur Verwaltung von Aufgaben mit Funktionen wie Hinzufügen, Anzeigen, Löschen und Filtern.
-Dame-Spiel für den Computer (in Entwicklung):
 
+Dame-Spiel für den Computer (in Entwicklung):
 Technologien: Java, Spring Boot, React, MySQL
 Beschreibung:
 Ein Brettspiel, das Echtzeit-Updates via WebSocket integriert und die Verwaltung von Spielregeln und Spielstand-Synchronisation über ein skalierbares Backend ermöglicht.
-Vier-Gewinnt-Spiel mit Java:
 
+Vier-Gewinnt-Spiel mit Java:
 Technologien: Java, Swing-Framework
 Beschreibung:
 Eine GUI-basierte Umsetzung des beliebten Spiels, mit vollständiger Spielmechanik und visueller Darstellung.
-Persönlicher Blog:
 
+Persönlicher Blog:
 Technologien: HTML, CSS, JavaScript
 Beschreibung:
 Entwicklung einer modernen, interaktiven Webseite mit dynamischen Bild-Slidern und ansprechendem Design.
+
 🌱 Meine Ziele:
 Ich suche nach neuen Herausforderungen, um meine Fähigkeiten in KI und Fullstack-Entwicklung weiter auszubauen. Gemeinsam mit einem kreativen Team möchte ich innovative Projekte umsetzen.
 
