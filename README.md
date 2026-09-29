@@ -1,82 +1,44 @@
-<h1 align="center">Hi 👋, I'm Leonel</h1>
+<h1 align="center">Hi 👋, I'm Steve Leonel</h1>
 
 <h3 align="center">Computer Science Student | Full-Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
-I enjoy building modern web applications, scalable backend systems, and AI-powered solutions.
+I enjoy building modern web applications, backend systems, and AI-powered solutions.
 </p>
-
----
 
 ### 👨‍💻 About Me
 
-I'm a **Computer Science student at Clausthal University of Technology** with a strong interest in **software engineering, full-stack development, and artificial intelligence**.
+I'm a **Computer Science student at Clausthal University of Technology** with a strong interest in **full-stack development, software engineering, and artificial intelligence**.
 
-I enjoy turning ideas into real applications — from designing responsive user interfaces to building REST APIs, working with databases, and deploying applications with Docker.
+I enjoy building complete software solutions, from responsive user interfaces and REST APIs to databases, real-time communication, and containerized deployments.
 
-I am especially interested in projects involving **Java & Spring Boot, React/Angular, TypeScript, Python, and AI technologies such as LLMs and RAG systems**.
+My main technologies include **Java, Spring Boot, Python, React, Angular, Next.js, and TypeScript**.
 
-🌱 Currently expanding my knowledge in **software architecture, AI systems, DevOps, and scalable web development**.
+I am also interested in **Artificial Intelligence, Large Language Models, RAG systems, software architecture, and DevOps**.
 
----
+🌱 I'm continuously improving my skills through university projects, personal projects, and practical software development.
 
-### 🛠️ Tech Stack
+### 🚀 What I Work With
 
-**Languages:**  
-Java • Python • TypeScript • JavaScript • SQL • HTML • CSS
+Frontend: React, Angular, Next.js, TypeScript, JavaScript, HTML, CSS, Vite
 
-**Backend:**  
-Spring Boot • Flask • REST APIs • WebSocket
+Backend: Java, Spring Boot, Python, Flask, REST APIs, WebSocket, WebRTC
 
-**Frontend:**  
-React • Angular • Next.js • Vite
+Databases: PostgreSQL, MySQL, MariaDB
 
-**Databases:**  
-PostgreSQL • MySQL • MariaDB
+DevOps: Docker, Git, GitHub, GitLab, Linux, Nginx
 
-**DevOps & Tools:**  
-Docker • Git • GitHub • GitLab • Linux • Maven • Gradle • Postman • OpenAPI
+Development Tools: Maven, Gradle, Postman, Swagger, OpenAPI
 
-**AI & Data:**  
-LLMs • RAG • LangGraph • ChromaDB • OCR • Prompt Engineering
+Monitoring: Prometheus, Grafana
 
----
+AI: LLMs, RAG, LangGraph, ChromaDB, OCR, Prompt Engineering
 
-### 🚀 What I Build
-
-- 🌐 Full-stack web applications
-- ⚙️ RESTful backend systems with Java & Spring Boot
-- 🤖 AI-powered applications using LLMs and RAG
-- 💬 Real-time applications with WebSocket and WebRTC
-- 🗄️ Database-driven applications with PostgreSQL, MySQL and MariaDB
-- 🐳 Containerized applications using Docker
-
----
-
-### 📌 Some of My Projects
-
-- **AI & Document Processing Systems** – experimenting with LLMs, RAG, OCR and document analysis
-- **WebRTC Training Platform** – Angular, Python, Flask, MariaDB, WebRTC and Docker
-- **Campus Assistant** – Java 21, Spring Boot and PostgreSQL
-- **Real-Time Board Game** – Spring Boot, React, MySQL and WebSocket
-- **Task Management App** – React and TypeScript
-- **Connect Four** – Java and Swing
-
----
-
-### 🎯 Currently Interested In
-
-I'm always looking for opportunities to improve my skills and contribute to interesting projects in:
-
-`Full-Stack Development` • `Software Engineering` • `Artificial Intelligence` • `Backend Development` • `DevOps`
-
----
+Design and Modeling: Figma, UML
 
 ### 🌐 Portfolio
 
-👉 [steveyomiportfolio.vercel.app](https://steveyomiportfolio.vercel.app/)
-
----
+[steveyomiportfolio.vercel.app](https://steveyomiportfolio.vercel.app/)
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -87,19 +49,27 @@ I'm always looking for opportunities to improve my skills and contribute to inte
 </a>
 
 <a href="https://spring.io/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
 </a>
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
 
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+</a>
+
 <a href="https://react.dev/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 </a>
 
 <a href="https://angular.dev/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
+</a>
+
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
 </a>
 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -110,28 +80,80 @@ I'm always looking for opportunities to improve my skills and contribute to inte
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+</a>
+
+<a href="https://vite.dev/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/>
 </a>
 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
 </a>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+</a>
+
+<a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="mariadb" width="40" height="40"/>
 </a>
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 </a>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</a>
+
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+</a>
+
+<a href="https://gitlab.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
+</a>
+
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/>
+</a>
+
+<a href="https://gradle.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" alt="gradle" width="40" height="40"/>
 </a>
 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
+
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</a>
+
+<a href="https://swagger.io/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/>
+</a>
+
+<a href="https://nginx.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+</a>
+
+<a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/>
+</a>
+
+<a href="https://grafana.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/>
+</a>
+
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 </a>
 
 </p>
