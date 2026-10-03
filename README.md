@@ -1,36 +1,45 @@
 <h1 align="center">Hi 👋, I'm Steve Leonel</h1>
 
-<h3 align="center">Computer Science Student | Full-Stack Developer | AI Enthusiast</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
-I enjoy building modern web applications, backend systems, and AI-powered solutions.
+I build production-ready web applications, backend systems, and AI-powered solutions.
 </p>
 
 ### 👨‍💻 About Me
 
-I'm a **Computer Science student at Clausthal University of Technology** with a strong interest in **full-stack development, software engineering, and artificial intelligence**.
+I hold a **B.Sc. in Computer Science from Clausthal University of Technology** and I'm currently pursuing a **Master's degree at the University of Kassel**.
 
-I enjoy building complete software solutions, from responsive user interfaces and REST APIs to databases, real-time communication, and containerized deployments.
+I have hands-on experience building and operating production full-stack systems: Spring Boot backends, Next.js frontends, PostgreSQL with Flyway, Stripe and RabbitMQ integrations, and Docker/CI-CD pipelines. My Bachelor's thesis focused on program synthesis: *"Beyond Accuracy: Measuring Intelligence in Programming by Example"*.
 
 My main technologies include **Java, Spring Boot, Python, React, Angular, Next.js, and TypeScript**.
 
 I am also interested in **Artificial Intelligence, Large Language Models, RAG systems, software architecture, and DevOps**.
 
-🌱 I'm continuously improving my skills through university projects, personal projects, and practical software development.
+💼 Open to **Software Engineer / Full-Stack Developer** roles from **November 2026**.
+
+### 🔭 Featured Projects
+
+- **[BeyondPass](https://github.com/YOMILEONEL/BeyondPass)**: multi-agent code synthesis with structural feedback (Python, Docker, Anthropic API)
+- **[Spacio](https://github.com/YOMILEONEL/room_booking_system)**: room booking platform with an AI assistant, Stripe payments and monitoring (Spring Boot, Next.js, PostgreSQL, Flyway)
+- **[CVforYou](https://cvforyou.vercel.app)**: multilingual resume builder with AI job matching (Next.js, Supabase, OpenAI API)
+- **[FriendTasks](https://friendtasks.vercel.app)**: collaborative todo app for friend groups with real-time updates (Next.js, Supabase)
 
 ### 🚀 What I Work With
 
-Frontend: React, Angular, Next.js, TypeScript, JavaScript, HTML, CSS, Vite
+Frontend: React, Angular, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Vite
 
-Backend: Java, Spring Boot, Python, Flask, REST APIs, WebSocket, WebRTC
+Backend: Java, Spring Boot, Spring Security, Python, Flask, REST APIs, WebSocket, WebRTC
 
-Databases: PostgreSQL, MySQL, MariaDB
+Databases: PostgreSQL, MySQL, MariaDB, Supabase, Flyway
 
-DevOps: Docker, Git, GitHub, GitLab, Linux, Nginx
+Integrations & Messaging: Stripe, RabbitMQ, OpenAI API
+
+DevOps: Docker, GitHub Actions, Git, GitHub, GitLab, Linux, Nginx
 
 Development Tools: Maven, Gradle, Postman, Swagger, OpenAPI
 
-Monitoring: Prometheus, Grafana
+Monitoring: Prometheus, Grafana, Loki
 
 AI: LLMs, RAG, LangGraph, ChromaDB, OCR, Prompt Engineering
 
@@ -92,6 +101,10 @@ Design and Modeling: Figma, UML
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/>
 </a>
 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
+</a>
+
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
 </a>
@@ -104,6 +117,10 @@ Design and Modeling: Figma, UML
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="mariadb" width="40" height="40"/>
 </a>
 
+<a href="https://supabase.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/>
+</a>
+
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 </a>
@@ -114,6 +131,10 @@ Design and Modeling: Figma, UML
 
 <a href="https://github.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+</a>
+
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/>
 </a>
 
 <a href="https://gitlab.com/" target="_blank" rel="noreferrer">
@@ -142,6 +163,10 @@ Design and Modeling: Figma, UML
 
 <a href="https://nginx.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+</a>
+
+<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" width="40" height="40"/>
 </a>
 
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
